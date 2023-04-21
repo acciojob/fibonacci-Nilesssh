@@ -6,6 +6,5 @@ function fibonacci(num) {
   }
 }
 
-console.log(fibonacci(8));
 
 module.exports = fibonacci;
